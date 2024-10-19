@@ -1,4 +1,4 @@
-# Calendar System 
+# Calendar-System 
 
 This is a Full-Stack Project using HTML/CSS, JS, AJAX, PHP, MySQL.
 
