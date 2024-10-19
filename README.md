@@ -1,6 +1,6 @@
-# K-C-EventMaster
+# Calendar System 
 
-K-C-EventMaster is a Calendar System using HTML/CSS, JS, AJAX, PHP, MySQL.
+This is a Full-Stack Project using HTML/CSS, JS, AJAX, PHP, MySQL.
 
 ## Homepage
 [Homepage Link] (http://ec2-18-117-107-39.us-east-2.compute.amazonaws.com/~Gokuf/M5/Group/home.php)
