@@ -5,7 +5,7 @@
 ## Overview
 The Calendar-System is a web application that allows users to manage and share events efficiently. Users can log in, create and manage events, and interact with features like tagging, searching, and sharing calendars. The project includes robust security features such as CSRF token authentication, input validation, and protection against SQL injection and XSS attacks.
 
-## Links
+## Project Link
 - **Homepage**: [Calendar System Homepage](http://ec2-18-117-107-39.us-east-2.compute.amazonaws.com/~Gokuf/M5/Group/home.php)
 
 ## Login Details
