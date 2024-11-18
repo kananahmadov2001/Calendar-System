@@ -1,7 +1,8 @@
-# Calendar-System
+<div align="center">
+    <h1 id="Header">Calendar-System</h1>
+</div>
 
 ## Overview
-
 The **Calendar-System** is a web application that allows users to manage and share events efficiently. Users can log in, create and manage events, and interact with features like tagging, searching, and sharing calendars. The project includes robust security features such as CSRF token authentication, input validation, and protection against SQL injection and XSS attacks.
 
 ## Features
