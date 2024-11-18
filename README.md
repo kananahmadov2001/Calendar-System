@@ -1,10 +1,4 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/vom7lzp3)
-# CSE330-Group
-Kanan Ahmadov - 517599 - kananahmadov2001
-
-Carmen Bland Jr - 511067 - washu-blandjr
-
-# Group Project: Calendar
+# Calendar-System
 
 ## Homepage
 [Homepage Link] (http://ec2-18-117-107-39.us-east-2.compute.amazonaws.com/~Gokuf/M5/Group/home.php)
