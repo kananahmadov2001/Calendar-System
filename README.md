@@ -5,9 +5,28 @@
 ## Overview
 The Calendar-System is a web application that allows users to manage and share events efficiently. Users can log in, create and manage events, and interact with features like tagging, searching, and sharing calendars. The project includes robust security features such as CSRF token authentication, input validation, and protection against SQL injection and XSS attacks.
 
+## Links
+- **Homepage**: [Calendar System Homepage](http://ec2-18-117-107-39.us-east-2.compute.amazonaws.com/~Gokuf/M5/Group/home.php)
+
+## Login Details
+Use one of the following credentials to log in:
+| Username  | Password      |
+|-----------|---------------|
+| abc       | `3tc!`        |
+| red       | `red`         |
+| kanan     | `kanan,2001`  |
+
+Alternatively, you can create a new user by entering a username and password on the homepage and clicking **Register**.
+
+## Technologies/Tools Used
+- **Frontend**: HTML, CSS, JavaScript
+- **Backend**: PHP
+- **Database**: MySQL
+- **Asynchronous Communication**: Fetch API for AJAX requests
+- **Frameworks/Libraries**: Bootstrap Icons for styling
+
 ## Features
 
-### Core Features
 - **User Management**:
   - Login and Registration: Users can log in using predefined credentials or create a new account.
   - Session Security: CSRF token authentication and secure sessions ensure user data is protected.
@@ -17,41 +36,16 @@ The Calendar-System is a web application that allows users to manage and share e
   - Tag events with specific categories for easy filtering.
   - Search events by category, date, or tag.
 
-### Creative Features
-1. **Tag Feature**:  
-   Users can categorize events by tags and enable/disable these tags in the calendar view for better organization.
+- **Tag Feature**:
+  - Users can categorize events by tags and enable/disable these tags in the calendar view for better organization.
 
-2. **Search Feature**:  
-   A search bar allows users to filter events by category, date, or tag.
+- **Search Feature**:
+  - A search bar allows users to filter events by category, date, or tag.
 
-3. **Share Feature**:  
-   Users can share their calendar with additional users, enabling collaboration.
+- **Share Feature**:
+  - Users can share their calendar with additional users, enabling collaboration.
 
-### Security Features
+## Security
 - Input validation to prevent SQL injection and XSS attacks.
 - CSRF token implementation for enhanced session security.
 - JSON-based responses for secure and structured server communication.
-
-## Technologies/Tools Used
-
-- **Frontend**: HTML, CSS, JavaScript
-- **Backend**: PHP
-- **Database**: MySQL
-- **Asynchronous Communication**: Fetch API for AJAX requests
-- **Frameworks/Libraries**: Bootstrap Icons for styling
-
-## Links
-
-- **Homepage**: [Calendar System Homepage](http://ec2-18-117-107-39.us-east-2.compute.amazonaws.com/~Gokuf/M5/Group/home.php)
-
-## Login Details
-
-Use one of the following credentials to log in:
-
-| Username  | Password      |
-|-----------|---------------|
-| abc       | `3tc!`        |
-| red       | `red`         |
-| kanan     | `kanan,2001`  |
-
-Alternatively, you can create a new user by entering a username and password on the homepage and clicking **Register**.
