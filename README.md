@@ -10,7 +10,7 @@ Note: This was my lab 5 project for my Rapid Prototype Dev. class I took at Wash
 ```
 
 ## Project Link
-- **Homepage**: [Calendar System Homepage](http://ec2-18-117-107-39.us-east-2.compute.amazonaws.com/~Gokuf/M5/Group/home.php)
+- **Homepage**: [Calendar System Homepage](http://ec2-50-17-104-237.compute-1.amazonaws.com/~kananAhmadov/module-5-group/home.php)
 
 ## Login Details
 Use one of the following credentials to log in:
